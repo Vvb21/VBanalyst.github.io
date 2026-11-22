@@ -1,0 +1,14 @@
+[en]
+title = "My blog"
+weight =2 
+label = "EN"
+contentDir = "content/english"
+
+[ru]
+title = "Мой блог"
+contentDir = "content/russian"
+weight =1 
+#Direction = "rtl"
+label = "RU"
+#[ru.params]
+#description = "أنا أعمل كمطورة ويب في شركة س"
