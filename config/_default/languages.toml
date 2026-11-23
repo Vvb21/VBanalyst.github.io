@@ -1,11 +1,14 @@
 [en]
-title = "My blog"
+title = "Analyst"
 weight =2 
 label = "EN"
 contentDir = "content/english"
+[en.params]
+description = "Data analyst"
+title = "Valery Babenko"
 
 [ru]
-title = "Мой блог"
+title = "Аналитик"
 contentDir = "content/russian"
 weight =1 
 #Direction = "rtl"
