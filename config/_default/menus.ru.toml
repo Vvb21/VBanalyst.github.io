@@ -1,45 +1,40 @@
   [[main]]
-  name = "Домашняя"
+  name = "Главная"
   identifier = "home"
   weight = 100
-  url = "/ru/"
-
-  [[main]]
-  name = "Посты"
-  weight = 500
-  identifier = "posts"
-  url = "/ru/post/"
-
-  [[main]]
-  name = "Портфолио"
-  weight = 400
-  identifier = "portfolio"
-  url = "/ru/portfolio/"
+  url = "/"
 
   [[main]]
   name = "Обо мне"
   weight = 200
   identifier = "about"
   
+  #[[main]]
+  #name = "Обо мне"
+  #weight = 210
+  #identifier = "aboutme"
+  #url = "/ru/about/"
+  #parent = "about"  
+
   [[main]]
-  name = "Обо мне"
+  name = "Технические навыки"
   weight = 210
-  identifier = "aboutme"
-  url = "/ru/about/"
+  identifier = "hardskills"
+  url = "/hardskills/"
   parent = "about"  
 
   [[main]]
   name = "Образование"
   weight = 220
   identifier = "education"
-  url = "/ru/education/"
+  url = "/education/"
   parent = "about"  
 
   [[main]]
   name = "Опыт"
   weight = 230
   identifier = "work"
-  url = "/ru/work/"
+  url = "/work/"
   parent = "about"  
 
   [[main]]
@@ -51,24 +46,36 @@
   name = "Награды"
   weight = 320
   identifier = "awards"
-  url = "/ru/awards/"
+  url = "/awards/"
   parent = "accomplishments"  
 
   [[main]]
   name = "Дипломы"
   weight = 310
   identifier = "certifications"
-  url = "/ru/certifications/"
+  url = "/certifications/"
   parent = "accomplishments"
+
+  [[main]]
+  name = "Портфолио"
+  weight = 400
+  identifier = "portfolio"
+  url = "/portfolio/"
+
+  [[main]]
+  name = "Посты"
+  weight = 500
+  identifier = "posts"
+  url = "/post/"
 
   [[main]]
   name = "Связь"
   weight = 600
   identifier = "contact"
-  url = "/ru/contact/"
+  url = "/contact/"
 
-  [[footer]]
-  name = "imprint"
-  weight = 1
-  identifier = "imprint"
-  url = "/ru/imprint/"
+  #[[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/imprint/"

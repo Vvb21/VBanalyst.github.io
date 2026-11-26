@@ -1,7 +1,6 @@
-
 title = "Валерий Бабенко"
 author= "Valery Babenko"
-copyright = "2025-{{ YEAR }}"
+copyright = "Valery Babenko {{ YEAR }}"
 description = """
 Аналитик данных / Системный Аналитик
 
@@ -17,7 +16,8 @@ customCss = []
 customJs = [] 
 #mainSections = ["post"]
 mainSections = []
-images = ["images/site-feature-image.png"]
+#images = ["images/site-feature-image.png"]
+images = ["images/"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
 #contactFormAction = "https://formspree.io/f/your-form-hash-here"
@@ -67,22 +67,22 @@ contentratio = 0.7
 [[socialIcons]]
 icon = "fa-brands fa-linkedin"
 title = "Linkedin"
-url = "https://de.linkedin.com/"
+url = "https://www.linkedin.com/in/valeriy-babenko-88461b447"
 
 [[socialIcons]]
 icon = "fa-brands fa-github"
 title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
+url = "https://github.com/Vvb21/"
 
 [[socialIcons]]
-icon = "fa-brands fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+icon = "fa-brands fa-telegram"
+title = "telegram"
+url = "https://t.me/vbabenko_tech"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:techsp26@mail.ru"
 
 [mermaid]
 # enable = true

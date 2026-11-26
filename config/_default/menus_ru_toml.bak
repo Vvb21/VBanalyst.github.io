@@ -1,0 +1,81 @@
+  [[main]]
+  name = "Главная"
+  identifier = "home"
+  weight = 100
+  url = "/ru/"
+
+  [[main]]
+  name = "Обо мне"
+  weight = 200
+  identifier = "about"
+  
+  #[[main]]
+  #name = "Обо мне"
+  #weight = 210
+  #identifier = "aboutme"
+  #url = "/ru/about/"
+  #parent = "about"  
+
+  [[main]]
+  name = "Технические навыки"
+  weight = 210
+  identifier = "hardskills"
+  url = "/ru/hardskills/"
+  parent = "about"  
+
+  [[main]]
+  name = "Образование"
+  weight = 220
+  identifier = "education"
+  url = "/ru/education/"
+  parent = "about"  
+
+  [[main]]
+  name = "Опыт"
+  weight = 230
+  identifier = "work"
+  url = "/ru/work/"
+  parent = "about"  
+
+  [[main]]
+  name = "Достижения"
+  weight = 300
+  identifier = "accomplishments"
+
+  [[main]]
+  name = "Награды"
+  weight = 320
+  identifier = "awards"
+  url = "/ru/awards/"
+  parent = "accomplishments"  
+
+  [[main]]
+  name = "Дипломы"
+  weight = 310
+  identifier = "certifications"
+  url = "/ru/certifications/"
+  parent = "accomplishments"
+
+  [[main]]
+  name = "Портфолио"
+  weight = 400
+  identifier = "portfolio"
+  url = "/ru/portfolio/"
+
+  [[main]]
+  name = "Посты"
+  weight = 500
+  identifier = "posts"
+  url = "/ru/post/"
+
+  [[main]]
+  name = "Связь"
+  weight = 600
+  identifier = "contact"
+  url = "/ru/contact/"
+
+  #[[footer]]
+  #name = "imprint"
+  #weight = 1
+  #identifier = "imprint"
+  #url = "/ru/imprint/"
