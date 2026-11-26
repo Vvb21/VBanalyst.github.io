@@ -8,7 +8,7 @@ title = "Аналитик данных"
 # theme as git submodule
 theme = "anatole"
 
-summarylength = 10
+summarylength = 3
 enableEmoji = true
 enableRobotsTXT = true
 

@@ -33,8 +33,15 @@
   [[main]]
   name = "Опыт"
   weight = 230
-  identifier = "work"
-  url = "/work/"
+  identifier = "experience"
+  url = "/experience/"
+  parent = "about"  
+
+  [[main]]
+  name = "Личностные навыки"
+  weight = 240
+  identifier = "softskills"
+  url = "/softskills/"
   parent = "about"  
 
   [[main]]
