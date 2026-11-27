@@ -4,6 +4,7 @@ description = "Home page / Главная страница"
 date = "2026-11-23"
 #aliases = ["about"]
 author = "Valery Babenko"
+#series = ["Aboutpages"]
 +++
 
 <!--

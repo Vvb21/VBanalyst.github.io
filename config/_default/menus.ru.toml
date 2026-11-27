@@ -49,12 +49,12 @@
   weight = 300
   identifier = "accomplishments"
 
-  [[main]]
-  name = "Награды"
-  weight = 320
-  identifier = "awards"
-  url = "/awards/"
-  parent = "accomplishments"  
+  #[[main]]
+  #name = "Награды"
+  #weight = 320
+  #identifier = "awards"
+  #url = "/awards/"
+  #parent = "accomplishments"  
 
   [[main]]
   name = "Дипломы"
@@ -70,7 +70,7 @@
   url = "/portfolio/"
 
   [[main]]
-  name = "Посты"
+  name = "Блог"
   weight = 500
   identifier = "posts"
   url = "/post/"

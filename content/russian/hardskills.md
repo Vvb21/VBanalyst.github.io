@@ -4,6 +4,7 @@ description = "Technical_skills / Твердые (технические) нав
 aliases = ["techskills"]
 author = "Valery Babenko"
 date = '2026-11-24'
+series = ["Aboutpages"]
 +++
 **Мои технические навыки**:
 

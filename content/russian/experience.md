@@ -9,7 +9,8 @@ draft: false
 #    - about_me
 #categories:
 #    - portfolio
-#series: "About me"
+series:
+    - Aboutpages
 #aliases: migrate-from-jekyl
 ---
 **Мой профессиональный опыт**:

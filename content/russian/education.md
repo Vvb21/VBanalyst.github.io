@@ -8,7 +8,8 @@ draft: false
 #    - education
 #categories:
 #    - portfolio
-#series: About me
+series:
+    - Aboutpages
 #aliases: migrate-from-jekyl
 ---
 **Моё образование**:

@@ -14,8 +14,8 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
-#mainSections = []
+#mainSections = ["post"]
+mainSections = []
 #images = ["images/site-feature-image.png"]
 images = ["images/"]
 doNotLoadAnimations = false
@@ -32,7 +32,7 @@ listDateFormat = "2/1/2006"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
-readMore = true
+# readMore = true
 # postSectionName = "blog"
 # relatedPosts = true
 # numberOfRelatedPosts = 3
