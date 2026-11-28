@@ -8,7 +8,7 @@ title = "Аналитик данных"
 # theme as git submodule
 theme = "anatole"
 
-summarylength = 3
+summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
 
@@ -20,7 +20,7 @@ pygmentsCodeFences = true
 pygmentsCodefencesGuessSyntax = true
 
 # Localized dates requires Hugo version 0.87.0
-localizedDates = false
+localizedDates = true
 
 # Mermaid
 [params.mermaid]

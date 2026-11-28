@@ -1,6 +1,6 @@
 ---
 author: Valery Babenko
-title: Contact
+title: Форма связи
 date: 2026-11-28
 description: Contact Page
 contact: true
